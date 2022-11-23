@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e0c76294268cf172e31504dca9c9d3925145de0255eb2022088f27dd1099a92c"
+            "sha256": "983db8814ae6a91799bb344e3270d089e1a6b8e3d940d8b7f2982dc831ce827c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -51,6 +51,14 @@
             ],
             "index": "pypi",
             "version": "==0.10.1"
+        },
+        "blazeform": {
+            "hashes": [
+                "sha256:7fede7fb7ac0a5f88c9032eac0c9b191b5c88d24c083e07b3129f1bc2bc3eea1",
+                "sha256:e77ea90a1f381f6e67e9846c18fe6b2bc90cd9f2deef39e82bd7b328b7ea828b"
+            ],
+            "index": "pypi",
+            "version": "==0.5.1"
         },
         "blazeutils": {
             "hashes": [
